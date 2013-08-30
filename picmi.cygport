@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="picmi"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="KDE nonogram puzzle game"
+DESCRIPTION="Part of the KDE games suite"
